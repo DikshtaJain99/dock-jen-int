@@ -4,7 +4,6 @@
   <artifactId>dikshi1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  	<finalName>dikshi1</finalName>
-    <initialName>dikshi</initialName>
+    <finalName>dikshi1</finalName>
   </build>
 </project>
